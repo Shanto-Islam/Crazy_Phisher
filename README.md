@@ -1,2 +1,2 @@
 # Crazy_Phisher
-Crazy phisher is for hacking Facebook &amp; Google accounts using phishing apps.
+Crazy Phisher is a app to hack Facebook and Google accounts.
